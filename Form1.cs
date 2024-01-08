@@ -16,6 +16,7 @@ public partial class Form1 : Form
 
 
         this.AllInfo.Checked = true;
+        _ = this.db.PrintAllInfo(this.dataGridView1);
 
     }
 

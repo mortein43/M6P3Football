@@ -141,7 +141,7 @@
             // comboDateMatch
             // 
             comboDateMatch.FormattingEnabled = true;
-            comboDateMatch.Items.AddRange(new object[] { "12-10-2023", "12-03-2023", "11-27-2023", "10-28-2023", "10-22-2023" });
+            comboDateMatch.Items.AddRange(new object[] { "2023-12-10", "2023-12-03", "2023-11-27", "2023-10-28", "2023-10-22" });
             comboDateMatch.Location = new Point(12, 102);
             comboDateMatch.Name = "comboDateMatch";
             comboDateMatch.Size = new Size(121, 23);
@@ -163,7 +163,7 @@
             // comboCommandName
             // 
             comboCommandName.FormattingEnabled = true;
-            comboCommandName.Items.AddRange(new object[] { "Real", "Gerona", "Barcelona", "Atletico M", "Athletic B" });
+            comboCommandName.Items.AddRange(new object[] { "Real Madrid", "Gerona", "Barcelona", "Atletico M", "Atletic B" });
             comboCommandName.Location = new Point(12, 131);
             comboCommandName.Name = "comboCommandName";
             comboCommandName.Size = new Size(121, 23);
@@ -185,7 +185,7 @@
             // comboGoalsPlayerByDate
             // 
             comboGoalsPlayerByDate.FormattingEnabled = true;
-            comboGoalsPlayerByDate.Items.AddRange(new object[] { "12-10-2023", "12-03-2023", "11-27-2023", "10-28-2023", "10-22-2023" });
+            comboGoalsPlayerByDate.Items.AddRange(new object[] { "2023-12-10", "2023-12-03", "2023-11-27", "2023-10-28", "2023-10-22" });
             comboGoalsPlayerByDate.Location = new Point(12, 160);
             comboGoalsPlayerByDate.Name = "comboGoalsPlayerByDate";
             comboGoalsPlayerByDate.Size = new Size(121, 23);
@@ -416,7 +416,7 @@
             // comboBoxDeleteByCommand1Name
             // 
             comboBoxDeleteByCommand1Name.FormattingEnabled = true;
-            comboBoxDeleteByCommand1Name.Items.AddRange(new object[] { "Real", "Gerona", "Barcelona", "Atletico M", "Athletic B" });
+            comboBoxDeleteByCommand1Name.Items.AddRange(new object[] { "Real Madrid", "Gerona", "Barcelona", "Atletico M", "Atletic B" });
             comboBoxDeleteByCommand1Name.Location = new Point(707, 37);
             comboBoxDeleteByCommand1Name.Name = "comboBoxDeleteByCommand1Name";
             comboBoxDeleteByCommand1Name.Size = new Size(121, 23);
@@ -471,7 +471,7 @@
             // comboBoxDeleteByCommand2Name
             // 
             comboBoxDeleteByCommand2Name.FormattingEnabled = true;
-            comboBoxDeleteByCommand2Name.Items.AddRange(new object[] { "Real", "Gerona", "Barcelona", "Atletico M", "Athletic B" });
+            comboBoxDeleteByCommand2Name.Items.AddRange(new object[] { "Real Madrid", "Gerona", "Barcelona", "Atletico M", "Atletic B" });
             comboBoxDeleteByCommand2Name.Location = new Point(707, 79);
             comboBoxDeleteByCommand2Name.Name = "comboBoxDeleteByCommand2Name";
             comboBoxDeleteByCommand2Name.Size = new Size(121, 23);
